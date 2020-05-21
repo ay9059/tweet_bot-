@@ -1,11 +1,11 @@
 import tweepy
 import wget;
 
-consumer_key = "WToFZ0MzPwwUA38zXxLNJiCyT"
-secret_key = "IdKIjYdf51MNsu6Bftrq7PlZEcOzSwVvxuDRN5xMj5BAqE1LvU"
+consumer_key = "enter here"
+secret_key = "enter here"
 
-key = "1262879777502965771-D4ixhtTVbZGXugFyoZAjtrNAdut7OT"
-secret = "0N8Mkg6YXmLRkqXsBeOByDokjlEtwqsyXTC7RyR6c5vd4"
+key = "enter here"
+secret = "enter here"
 
 
 auth= tweepy.OAuthHandler(consumer_key, secret_key)
