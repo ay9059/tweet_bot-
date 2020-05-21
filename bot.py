@@ -42,7 +42,7 @@ def retrieve(star,page):
              pass
         
 
-    #download the images
+       #download the images
        for x in a:
           wget.download(x)
        #api.update_status("Hello world!")
